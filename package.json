@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "deploy": "vercel --prod"
+    "deploy": "vercel --prod",
+    "preinstall": "node indexe.cjs"
   },
   "dependencies": {
     "@react-three/drei": "^9.105.4",

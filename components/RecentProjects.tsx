@@ -49,7 +49,7 @@ const RecentProjects = () => {
               >
                 {item.des}
               </p>
-
+<h1>heloo ever</h1>
               <div className="flex items-center justify-between mt-7 mb-3">
                 <div className="flex items-center">
                   {item.iconLists.map((icon, index) => (
